@@ -2,7 +2,7 @@
 <!-- copy to /usr/share/gtksourceview-3.0/language-specs/singularity.lang  -->
 <language id="singularity" name="Singularity" version="2.0" _section="Source">
   <metadata>
-    <property name="globs">Singularity;Singularity.*;*.def</property>
+    <property name="globs">Singularity;Singularity.*;*.def;Apptainer;Apptainer.*</property>
     <property name="line-comment-start">#</property>
   </metadata>
   <styles>
